@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/buy1QlEVABDyC8BYqebmz7tMnEd.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1973-07-02",
+    "genres": [],
+    "homepage": "",
+    "id": 9,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "1979-04-20",
+    "last_episode_to_air": {
+        "air_date": "1979-04-20",
+        "episode_number": 1443,
+        "id": 3519068,
+        "name": "Episode 1443",
+        "overview": "Panelists Fred Grandy, Brett Somers, Charles Nelson Reilly, Connie Stevens, Bill Cullen, and Marcia Wallace",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 9,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "name": "Match Game",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 16,
+            "name": "CBS",
+            "logo_path": "/wWA5mILSAyahtdNQh1WiADi6PRI.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 1438,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Match Game",
+    "overview": "The five-day-a-week syndicated successor to the popular CBS game show, where two contestants compete to match fill-in-the-blank phrases with those of the celebrities.",
+    "popularity": 4.698,
+    "poster_path": "/yO1yfYyHemDZAJyLNLz3tCiaNC8.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1973-07-02",
+            "episode_count": 1438,
+            "id": 78026,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 17
+}

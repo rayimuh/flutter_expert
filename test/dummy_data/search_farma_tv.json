@@ -1,0 +1,24 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "backdrop_path": "/n6CnWXRQlgw3mlqHjnOn5Biq7ne.jpg",
+            "first_air_date": "2011-07-24",
+            "genre_ids": [],
+            "id": 58141,
+            "name": "Farma",
+            "origin_country": [
+                "SK"
+            ],
+            "original_language": "sk",
+            "original_name": "Farma",
+            "overview": "Serbian version of the reality series The Farm.",
+            "popularity": 1834.27,
+            "poster_path": "/kbHpBaS67JWmstgAqH39pxEPDyG.jpg",
+            "vote_average": 4.3,
+            "vote_count": 2
+        }        
+    ],
+    "total_pages": 1,
+    "total_results": 12
+}
