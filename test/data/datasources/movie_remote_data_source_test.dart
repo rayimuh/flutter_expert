@@ -18,7 +18,7 @@ void main() {
   late MovieRemoteDataSourceImpl dataSource;
   late MockHttpClient mockHttpClient;
 
-  setUp(() {
+  setUp(() { 
     mockHttpClient = MockHttpClient();
     dataSource = MovieRemoteDataSourceImpl(client: mockHttpClient);
   });
